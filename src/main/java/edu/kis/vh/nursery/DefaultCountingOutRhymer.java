@@ -25,6 +25,8 @@ public class DefaultCountingOutRhymer {
 		return numbers[total];
 	}
 
+	
+	
 	public int countOut() {
 		if (callCheck())
 			return -1;
@@ -32,3 +34,4 @@ public class DefaultCountingOutRhymer {
 	}
 
 }
+// zmieniłem
